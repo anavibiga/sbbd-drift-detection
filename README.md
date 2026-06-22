@@ -1,6 +1,6 @@
 # Detecção de Drift em Partidas de Futebol — SBBD 2026
 
-Código e análises do artigo submetido ao **SBBD 2026**, que investiga o uso de algoritmos de detecção de *concept drift* para identificar mudanças no padrão de eventos de partidas de futebol próximas a gols.
+Código e análises do artigo 'Aplicação de Métodos Baseados em Concept Drift para Previsão de Gols no Futebol Profissional' submetido ao **SBBD 2026**, que investiga o uso de algoritmos de detecção de *concept drift* para identificar mudanças no padrão de eventos de partidas de futebol próximas a gols.
 
 **Competição:** La Liga — temporada 2015/16 (StatsBomb Open Data)  
 **Janela de avaliação:** K = 10
