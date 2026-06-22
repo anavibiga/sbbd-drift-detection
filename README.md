@@ -7,6 +7,7 @@ Código e análises do artigo 'Aplicação de Métodos Baseados em Concept Drift
 
 ## Estrutura do repositório
 
+~~~
 ├── src/
 │   ├── 01_feature_engineering.py     # Gera events_wide_minute.parquet
 │   ├── 02_model_adwin.py             # Detector ADWIN
@@ -20,7 +21,7 @@ Código e análises do artigo 'Aplicação de Métodos Baseados em Concept Drift
 │   └── 05_artigo_sbbd.ipynb         # Análises e figuras do artigo
 ├── results/model_v5_k10/             # Resultados dos modelos (.parquet)
 └── figures/sbbd_k10_attack/          # Figuras geradas para o artigo
-
+~~~
 
 ## Pipeline
 
