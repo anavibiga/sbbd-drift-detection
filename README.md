@@ -18,7 +18,7 @@ Código e análises do artigo 'Aplicação de Métodos Baseados em Concept Drift
 ├── notebooks/
 │   ├── 01_data_sanity_check.ipynb    # Validação dos dados brutos
 │   ├── 02_eda_laliga.ipynb           # Análise exploratória
-│   └── 05_artigo_sbbd.ipynb         # Análises e figuras do artigo
+│   └── 05_artigo_sbbd.ipynb          # Análises e figuras do artigo
 ├── results/model_v5_k10/             # Resultados dos modelos (.parquet)
 └── figures/sbbd_k10_attack/          # Figuras geradas para o artigo
 ~~~
